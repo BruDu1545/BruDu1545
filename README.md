@@ -16,13 +16,6 @@
         <div class="container">
             <p>Moro no Parana.</p>
             <p>Trabalho no Martin Luther, mas estudo, HTML5, CSS e JavaScript. Mas estudo no Colegio Estadual Eron Domingues no TDS (Tecnico em desinvolvimento de sitemas).</p>
-            <h2 class="subtitulo-texto">Como trabalho</h2>
-            <blockquote class="citacao-bio fiat" tabindex="1">
-                <p>João é o melhor desenvolvedor front-end com quem já trabalhei. Muito eficiente e muito capaz. Recomendo sem dúvidas!</p>
-                <cite>José Souza, Fiat</cite>
-            </blockquote>
-            <p>Satisfazer meus clientes é prioridade. Para isso, garanto um processo de desenvolvimento altamente interativo, baseado em feedback contínuo. <strong>Não trabalho com escopo fechado</strong>: o cliente é que decide quando o produto está pronto.</p>
-            <p>Também não trabalho com prazos fechados: <strong>qualidade é importante demais para ser sacrificada</strong>.</p>
             <h2 class="subtitulo-texto">Experiência</h2>
             <blockquote class="citacao-bio petrobras" tabindex="1">
                 <p>João domina as tecnologias como ninguém. Eu apresentava um problema, ele tinha na ponta da língua a solução mais adequada com as tecnologias mais recentes.</p>
