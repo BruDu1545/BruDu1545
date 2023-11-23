@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>João da Silva - Biografia</title>
+    Bruno Carletto Adamczyk
     <link rel="icon" href="imagens/favicon.png">
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/site.css">
