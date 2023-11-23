@@ -16,16 +16,7 @@
         <div class="container">
             <p>Moro no Parana.</p>
             <p>Trabalho no Martin Luther, mas estudo, HTML5, CSS e JavaScript. Mas estudo no Colegio Estadual Eron Domingues no TDS (Tecnico em desinvolvimento de sitemas).</p>
-            <h2 class="subtitulo-texto">Experiência</h2>
-            <blockquote class="citacao-bio petrobras" tabindex="1">
-                <p>João domina as tecnologias como ninguém. Eu apresentava um problema, ele tinha na ponta da língua a solução mais adequada com as tecnologias mais recentes.</p>
-                <cite>Manoel Santos, Petrobrás</cite>
-            </blockquote>
-            <p>Já desenvolvi projetos para grandes empresas como <a href="http://bmw.com">BMW</a>, <a href="http://www.uol.com.br">UOL</a> e <a href="http://www.ibm.com.br">IBM</a>. Neles, o foco principal era entregar uma experiência imersiva e impactante para o usuário final sem descuidar do desempenho e da acessibilidade da página.</p>
-            <p>Também já fui contratado para transformar grandes portais, como Terra e G1, em páginas responsivas. Fui responsável por renovar o layout, reorganizar o conteúdo e re-escrever o código de forma mais reaproveitável.</p>
-            <h2 class="subtitulo-texto">Comunidade</h2>
-            <p>Procuro repassar meu conhecimento para a comunidade. Para isso, já dei <a href="portfolio.html">diversas palestras</a> e mantenho um <a href="blog.html">blog</a>.</p>
-            <h2 class="subtitulo-texto">Habilidades</h2>
+           <h2 class="subtitulo-texto">Habilidades</h2>
             <table class="habilidades">
                 <thead>
                     <tr>
