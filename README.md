@@ -41,7 +41,7 @@
         </div>
     </main>
     <aside class="navegacao-site">
-        <h1>João da Silva</h1>
+        <h1>Bruno Carletto Adamczyk</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -70,10 +70,10 @@
         </ul>
     </aside>
     <footer class="rodape-pagina">
-        &copy; João da Silva 2014
+        &copy; Bruno Carletto Adamczyk
     </footer>
     <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/BruDu1545">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
