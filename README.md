@@ -15,7 +15,7 @@
         <h1 class="titulo-principal">Sobre mim</h1>
         <div class="container">
             <p>Moro no Parana.</p>
-            <p>Trabalho no Martin Luther, mas estudo, HTML5, CSS e JavaScript. Crio sites para todos, seguindo as principais diretivas de <strong>acessibilidade, responsividade e web semântica</strong>, sem descuidar da qualidade de código.</p>
+            <p>Trabalho no Martin Luther, mas estudo, HTML5, CSS e JavaScript. Mas estudo no Colegio Estadual Eron Domingues no TDS (Tecnico em desinvolvimento de sitemas).</p>
             <h2 class="subtitulo-texto">Como trabalho</h2>
             <blockquote class="citacao-bio fiat" tabindex="1">
                 <p>João é o melhor desenvolvedor front-end com quem já trabalhei. Muito eficiente e muito capaz. Recomendo sem dúvidas!</p>
@@ -50,7 +50,7 @@
                         <th>JavaScript</th>
                     </tr>
                     <tr>
-                        <th>CSS3</th>
+                        <th>CSS</th>
                     </tr>
                 </tbody>
             </table>
