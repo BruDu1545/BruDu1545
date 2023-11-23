@@ -5,7 +5,8 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](Link do Linkedin aqui)
 Formação em andamento:
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](Link do Curso em Andamento)
+[<img src="![image](https://github.com/BruDu1545/BruDu1545/assets/150372999/884c0ec7-c6fd-49f5-97e0-05ddb14ed1c5)
+" width="70">](Link do Curso em Andamento)
 
 Bootcamps Concluidos:
 
