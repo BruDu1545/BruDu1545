@@ -44,33 +44,13 @@
                 <tbody>
                     <tr>
                         <th>HTML5</th>
-                        <td>Proficiente</td>
-                        <td>Uso em todos os sites que desenvolvo</td>
-                    </tr>
-                    <tr>
-                        <th>CSS3</th>
-                        <td>Proficiente</td>
-                        <td>Uso em todos os sites que desenvolvo</td>
-                    </tr>
-                    <tr>
-                        <th>JavaScript</th>
-                        <td>Proficiente</td>
-                        <td>Uso em quase todos os sites que desenvolvo, aplicando-o de forma não-obstrutiva</td>
-                    </tr>
-                    <tr>
-                        <th>Design</th>
-                        <td>Proficiente</td>
-                        <td>Formado em web design pela Universidade de Jacarezinho</td>
-                    </tr>
-                    <tr>
-                        <th>Git</th>
                         <td colspan="2" rowspan="3">Estudando</td>
                     </tr>
                     <tr>
-                        <th>Angular</th>
+                        <th>JavaScript</th>
                     </tr>
                     <tr>
-                        <th>Java</th>
+                        <th>CSS3</th>
                     </tr>
                 </tbody>
             </table>
