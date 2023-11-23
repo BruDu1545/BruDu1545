@@ -1,5 +1,4 @@
-<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">
-<a href="mailto:seuemailaqui@gmail.com">
+<a href="mailto:adamcykbruno10@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](Link do Linkedin aqui)
