@@ -44,17 +44,8 @@
     <aside class="navegacao-site">
         <h1>🟩 Bruno Carletto Adamczyk 🟩</h1>
         <ul class="icones-redes-sociais">
-            <li>
-                <a href="">
-                    instagram
-                </a>
-            </li>
-            <li>
-                <a href="">
-                    facebook
-                </a>
-            </li>
-        </ul>
+	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
     </aside>
     <footer class="rodape-pagina">
     </footer>
