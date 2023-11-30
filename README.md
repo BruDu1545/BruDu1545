@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="utf-8">
-    Bruno Carletto Adamczyk
     <link rel="icon" href="imagens/favicon.png">
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/site.css">
@@ -12,7 +11,7 @@
 </head>
 <body>
     <main>
-        <h1 class="titulo-principal">Sobre mim</h1>
+        <h1 class="titulo-principal">🟩Sobre mim🟩</h1>
         <div class="container">
             <p>🟢Moro no Parana.</p>
             <p>🟢Trabalho no Martin Luther na parte de TI</p>
@@ -58,7 +57,7 @@
         </ul>
     </aside>
     <footer class="rodape-pagina">
-        &copy; Bruno Carletto Adamczyk
+        &copy; 🟩Bruno Carletto Adamczyk🟩
     </footer>
     <div>
 <a href="https://github.com/BruDu1545">
