@@ -16,7 +16,7 @@
         <div class="container">
             <p>🟢Moro no Parana.</p>
             <p>🟢Trabalho no Martin Luther na parte de TI</p>
-               <p>🟢mas estudo, HTML5, CSS e JavaScript</p>
+               <p>🟢Mas estudo, HTML5, CSS e JavaScript</p>
                 <p> 🟢Estudo no Colegio Estadual Eron Domingues no TDS (Tecnico em desinvolvimento de sitemas).</p>
            <h2 class="subtitulo-texto">Habilidades</h2>
             <table class="habilidades">
