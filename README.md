@@ -42,7 +42,7 @@
         </div>
     </main>
     <aside class="navegacao-site">
-        <h1>Bruno Carletto Adamczyk</h1>
+        <h1>🟩Bruno Carletto Adamczyk🟩</h1>
         <ul class="icones-redes-sociais">
             <li>
                 <a href="">
@@ -57,7 +57,6 @@
         </ul>
     </aside>
     <footer class="rodape-pagina">
-        &copy; 🟩Bruno Carletto Adamczyk🟩
     </footer>
     <div>
 <a href="https://github.com/BruDu1545">
