@@ -55,3 +55,4 @@
 </div>
 </body>
 </html>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovitorsk07&bg_color=000000&color=008000&line=7FFF00&point=6B8E23&area=true&hide_border=true)]
