@@ -53,18 +53,13 @@
         </nav>
         <ul class="icones-redes-sociais">
             <li>
-                <a href="https://github.com/joaodasilva" class="github" data-tooltip="Veja meus projetos opensource">
-                    Github
+                <a href="">
+                    instagram
                 </a>
             </li>
             <li>
-                <a href="https://twitter.com/joaodasilva" class="twitter" data-tooltip="Siga-me no Twitter">
-                    Twitter
-                </a>
-            </li>
-            <li>
-                <a href="https://br.linkedin.com/pub/joão-da-silva/32/4/508" class="linkedin" data-tooltip="Veja meu currículo">
-                    LinkedIn
+                <a href="">
+                    facebook
                 </a>
             </li>
         </ul>
@@ -74,8 +69,8 @@
     </footer>
     <div>
 <a href="https://github.com/BruDu1545">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=7&theme=green"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
 </div>
 </body>
 </html>
