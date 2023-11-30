@@ -11,13 +11,13 @@
 </head>
 <body>
     <main>
-        <h1 class="titulo-principal">🟩Sobre mim🟩</h1>
+        <h1 class="titulo-principal">🟩 Sobre mim 🟩</h1>
         <div class="container">
-            <p>🟢Moro no Parana.</p>
-            <p>🟢Trabalho no Martin Luther na parte de TI</p>
-               <p>🟢Mas estudo, HTML5, CSS e JavaScript</p>
-                <p> 🟢Estudo no Colegio Estadual Eron Domingues no TDS (Tecnico em desinvolvimento de sitemas).</p>
-           <h2 class="subtitulo-texto">Habilidades</h2>
+            <p>🟢  Moro no Parana.</p>
+            <p>🟢  Trabalho no Martin Luther na parte de TI.</p>
+               <p>  🟢Mas estudo, HTML5, CSS e JavaScript.</p>
+                <p>  🟢Estudo no Colegio Estadual Eron Domingues no TDS (Tecnico em desinvolvimento de sitemas).</p>
+           <h2 class="subtitulo-texto">🟩 Habilidades 🟩</h2>
             <table class="habilidades">
                 <thead>
                     <tr>
@@ -42,7 +42,7 @@
         </div>
     </main>
     <aside class="navegacao-site">
-        <h1>🟩Bruno Carletto Adamczyk🟩</h1>
+        <h1>🟩 Bruno Carletto Adamczyk 🟩</h1>
         <ul class="icones-redes-sociais">
             <li>
                 <a href="">
