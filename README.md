@@ -15,7 +15,7 @@
         <h1 class="titulo-principal">Sobre mim</h1>
         <div class="container">
             <p>Moro no Parana.</p>
-            <p>Trabalho no Martin Luther, mas estudo, HTML5, CSS e JavaScript. Mas estudo no Colegio Estadual Eron Domingues no TDS (Tecnico em desinvolvimento de sitemas).</p>
+            <p>Trabalho no Martin Luther na parte de TI, mas estudo, HTML5, CSS e JavaScript. Mas estudo no Colegio Estadual Eron Domingues no TDS (Tecnico em desinvolvimento de sitemas).</p>
            <h2 class="subtitulo-texto">Habilidades</h2>
             <table class="habilidades">
                 <thead>
@@ -61,7 +61,7 @@
     <div>
 <a href="https://github.com/BruDu1545">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/username=BruDu1545&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 </body>
 </html>
