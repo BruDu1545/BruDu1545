@@ -42,15 +42,6 @@
     </main>
     <aside class="navegacao-site">
         <h1>Bruno Carletto Adamczyk</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="portfolio.html">Portfolio</a></li>
-                <li><a href="bio.html">Sobre mim</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="contato.html">Contato</a></li>
-            </ul>
-        </nav>
         <ul class="icones-redes-sociais">
             <li>
                 <a href="">
@@ -69,8 +60,8 @@
     </footer>
     <div>
 <a href="https://github.com/BruDu1545">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=7&theme=green"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 </body>
 </html>
