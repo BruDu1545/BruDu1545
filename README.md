@@ -30,13 +30,19 @@
                 <tbody>
                     <tr>
                         <th>HTML5</th>
-                                             <td colspan="2" rowspan="3">Estudando</td>
                     </tr>
                     <tr>
                         <th>JavaScript</th>
                     </tr>
                     <tr>
                         <th>CSS</th>
+                        <td colspan="2" rowspan="3">Estudando</td>
+                    </tr>
+                    <tr>
+                        <th>PHP</th>
+                    </tr>
+                    <tr>
+                        <th>BD</th>
                     </tr>
                 </tbody>
             </table>
