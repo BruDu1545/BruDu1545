@@ -30,10 +30,10 @@
                 <tbody>
                     <tr>
                         <th>HTML5</th>
+                        <td colspan="2" rowspan="6">Estudando</td>
                     </tr>
                     <tr>
                         <th>JavaScript</th>
-                                                <td colspan="2" rowspan="6">Estudando</td>
                     </tr>
                     <tr>
                         <th>CSS</th>
