@@ -32,8 +32,8 @@
                         <th>HTML5</th>
                     </tr>
                     <tr>
+                        <td colspan="5" rowspan="5">Estudando</td>
                         <th>JavaScript</th>
-                                                <td colspan="5" rowspan="5">Estudando</td>
                     </tr>
                     <tr>
                         <th>CSS</th>
