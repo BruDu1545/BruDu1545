@@ -33,10 +33,10 @@
                     </tr>
                     <tr>
                         <th>JavaScript</th>
+                                                <td colspan="3" rowspan="5">Estudando</td>
                     </tr>
                     <tr>
                         <th>CSS</th>
-                        <td colspan="3" rowspan="5">Estudando</td>
                     </tr>
                     <tr>
                         <th>PHP</th>
