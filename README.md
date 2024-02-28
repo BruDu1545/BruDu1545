@@ -38,6 +38,12 @@
                     <tr>
                         <th>CSS</th>
                     </tr>
+                     <tr>
+                        <th>PHP</th>
+                    </tr>
+                     <tr>
+                        <th>BD</th>
+                    </tr>
                 </tbody>
             </table>
         </div>
