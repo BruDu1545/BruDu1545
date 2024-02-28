@@ -36,7 +36,7 @@
                     </tr>
                     <tr>
                         
-                     <td colspan="2" rowspan="5">Estudando</td>
+                     <td colspan="2" rowspan="3">Estudando</td>
                         <th>CSS</th>
                     </tr>
                 </tbody>
