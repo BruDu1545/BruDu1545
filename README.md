@@ -33,7 +33,7 @@
                     </tr>
                     <tr>
                         <th>JavaScript</th>
-                                                <td colspan="3" rowspan="5">Estudando</td>
+                                                <td colspan="4" rowspan="5">Estudando</td>
                     </tr>
                     <tr>
                         <th>CSS</th>
