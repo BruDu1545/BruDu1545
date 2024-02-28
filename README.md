@@ -36,7 +36,7 @@
                     </tr>
                     <tr>
                         <th>CSS</th>
-                        <td colspan="2" rowspan="3">Estudando</td>
+                        <td colspan="2" rowspan="5">Estudando</td>
                     </tr>
                     <tr>
                         <th>PHP</th>
