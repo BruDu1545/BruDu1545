@@ -39,6 +39,11 @@
             <td>Iniciante/intermediaria</td>
         </tr>
         <tr>
+            <td>Python</td>
+            <td>3</td>
+            <td>Intermediaria</td>
+        </tr>
+        <tr>
             <td>CSS</td>
             <td>3</td>
             <td>Intermediaria</td>
