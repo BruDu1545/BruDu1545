@@ -14,10 +14,11 @@
     <main>
         <h1 class="titulo-principal">🟩 Sobre mim 🟩</h1>
         <div class="container">
-            <p>🟢  Moro no Parana, em Marechal Candido Rondon.</p>
-            <p>🟢  Trabalho no colegio Martin Luther, em Marechal Candido Rondon no setor de T.I.</p>
+            <p>🟢 Moro no Parana, em Marechal Candido Rondon.</p>
+            <p>🟢 Trabalho no colegio Martin Luther, em Marechal Candido Rondon no setor de T.I.</p>
             <p>🟢 Estudo, HTML5, CSS e JavaScript, PHP, Python, Dart, Flutter, SQL, e muito mais.</p>
             <p>🟢 Faço graduação especializada no Colegio Estadual Eron Domingues com especialização em TDS (Tecnico em desinvolvimento de sitemas).</p>
+            <p>🟢 O meu sonho é me tornar um desenvolvedor e transformar ideias em realidade através da programação.</p>
             <h2 class="subtitulo-texto">🟩 Habilidades 🟩</h2>
             <table class="habilidades">
                 <thead>
