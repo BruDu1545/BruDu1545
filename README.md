@@ -56,8 +56,18 @@
                     </tr>
                     <tr>
                         <td>BD</td>
-                        <td>2</td>
-                        <td>Iniciante</td>
+                        <td>3</td>
+                        <td>Intermediaria</td>
+                    </tr>
+                    <tr>
+                        <td>C++</td>
+                        <td>1</td>
+                        <td>Basico</td>
+                    </tr>
+                    <tr>
+                        <td>Dart</td>
+                        <td>1</td>
+                        <td>Basico</td>
                     </tr>
                 </tbody>
             </table>
