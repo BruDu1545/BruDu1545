@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header)
 
-## 👨‍💻 Sobre Mim
-
 📍 Resido em **Marechal Cândido Rondon**, Paraná.  
 
 💼 Trabalho no **Colégio Martin Luther**, no setor de **Tecnologia da Informação (TI)**.  
