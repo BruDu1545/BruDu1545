@@ -14,11 +14,15 @@
     <main>
         <h1 class="titulo-principal">🟩 Sobre mim 🟩</h1>
         <div class="container">
-            <p>🟢 Moro no Parana, em Marechal Candido Rondon.</p>
-            <p>🟢 Trabalho no colegio Martin Luther, em Marechal Candido Rondon no setor de T.I.</p>
-            <p>🟢 Estudo, HTML5, CSS e JavaScript, PHP, Python, Dart, Flutter, SQL, e muito mais.</p>
-            <p>🟢 Faço graduação especializada no Colegio Estadual Eron Domingues com especialização em TDS (Tecnico em desinvolvimento de sitemas).</p>
-            <p>🟢 O meu sonho é me tornar um desenvolvedor e transformar ideias em realidade através da programação.</p>
+        <h1>👨‍💻 Sobre Mim</h1>
+        <p><span class="emoji">📍</span> Resido em <strong>Marechal Cândido Rondon</strong>, Paraná.</p>
+        <p><span class="emoji">💼</span> Trabalho no <strong>Colégio Martin Luther</strong>, no setor de Tecnologia da Informação (TI).</p>
+        <p><span class="emoji">📚</span> Estou constantemente me aperfeiçoando em tecnologias como: <br>
+           <strong>HTML5</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>Python</strong>, <strong>Dart</strong>, <strong>Flutter</strong>, <strong>SQL</strong>, entre outras.
+        </p>
+        <p><span class="emoji">🎓</span> Atualmente, curso <strong>Técnico em Desenvolvimento de Sistemas (TDS)</strong> no <strong>Colégio Estadual Eron Domingues</strong>.</p>
+        <p><span class="emoji">🌟</span> Meu maior objetivo é me tornar um desenvolvedor talentoso, capaz de transformar ideias em soluções inovadoras por meio da programação.</p>
+
             <h2 class="subtitulo-texto">🟩 Habilidades 🟩</h2>
             <table class="habilidades">
                 <thead>
