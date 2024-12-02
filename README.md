@@ -5,11 +5,14 @@
 ## 👨‍💻 Sobre Mim
 
 📍 Resido em **Marechal Cândido Rondon**, Paraná.  
+
 💼 Trabalho no **Colégio Martin Luther**, no setor de **Tecnologia da Informação (TI)**.  
+
 📚 Estou constantemente aprendendo tecnologias como:  
 **HTML5**, **CSS**, **JavaScript**, **PHP**, **Python**, **Dart**, **Flutter**, **SQL**, entre outras.  
 
 🎓 Atualmente, curso **Técnico em Desenvolvimento de Sistemas (TDS)** no **Colégio Estadual Eron Domingues**.  
+
 🌟 Meu maior objetivo é me tornar um desenvolvedor talentoso, capaz de transformar ideias em soluções inovadoras por meio da programação.
 
 ---
