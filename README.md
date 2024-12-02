@@ -20,7 +20,7 @@
 | **Habilidade**    | **Nível**         | **Experiência**          |
 |--------------------|-------------------|--------------------------|
 | HTML5             | ⭐⭐⭐⭐⭐           | Intermediária/Avançada   |
-| CSS               | ⭐⭐⭐             | Intermediária            |
+| CSS               | ⭐⭐⭐⭐           | Intermediária            |
 | JavaScript        | ⭐⭐⭐             | Iniciante/Intermediária  |
 | Python            | ⭐⭐⭐             | Intermediária            |
 | PHP               | ⭐⭐⭐             | Intermediária            |
