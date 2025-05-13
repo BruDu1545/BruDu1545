@@ -31,8 +31,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center" height="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=8&theme=dracula" width="45%" height="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=6&theme=dracula" width="45%" height="100%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="50%" height="100%"/>
 </p>
 
