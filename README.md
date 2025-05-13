@@ -31,10 +31,10 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=8&theme=dracula)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=8&theme=dracula" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="50%"/>
+</p>
 ---
 
 ## 🌐 Conecte-se comigo
