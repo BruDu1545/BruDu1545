@@ -4,7 +4,7 @@
 
 📍 Resido em **Marechal Cândido Rondon**, Paraná.  
 
-💼 Trabalho no **Colégio Martin Luther**, no setor de **Tecnologia da Informação (TI)**.  
+💼 Trabalho no **Colégio Martin Luther**, no setor de **Tecnologia da Informação (TI)** fazendo desenvolvimento de novas tecnologias.  
 
 📚 Estou constantemente aprendendo tecnologias como:  
 **HTML5**, **CSS**, **JavaScript**, **PHP**, **Python**, **Dart**, **Flutter**, **SQL**, entre outras.  
