@@ -23,7 +23,7 @@
 | CSS               | ⭐⭐⭐⭐           | Intermediária            |
 | JavaScript        | ⭐⭐⭐             | Intermediária  |
 | Python            | ⭐⭐⭐             | Intermediária            |
-| PHP               | ⭐⭐⭐             | Intermediária            |
+| PHP               | ⭐⭐⭐             | Intermediária/Avançada   |
 | Banco de Dados    | ⭐⭐⭐             | Intermediária            |
 | C++               | ⭐               | Básico                   |
 | Dart              | ⭐               | Básico                   |
