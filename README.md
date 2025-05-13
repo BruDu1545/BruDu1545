@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=8&theme=dracula" style="width: 45%; height: 200px; object-fit: contain;" />
   <img src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="width: 50%; height: 200px; object-fit: contain;" />
 </div>
