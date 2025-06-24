@@ -22,6 +22,7 @@
 | HTML5             | ⭐⭐⭐⭐⭐           | Intermediária/Avançada   |
 | CSS               | ⭐⭐⭐⭐           | Intermediária            |
 | JavaScript        | ⭐⭐⭐             | Intermediária  |
+| SQL        | ⭐⭐⭐             | Intermediária  |
 | Python            | ⭐⭐⭐             | Intermediária            |
 | PHP               | ⭐⭐⭐             | Intermediária/Avançada   |
 | Banco de Dados    | ⭐⭐⭐             | Intermediária            |
