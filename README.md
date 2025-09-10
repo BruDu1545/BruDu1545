@@ -29,24 +29,15 @@
 | C++               | ⭐               | Básico                   |
 | Dart              | ⭐               | Básico                   |
 
-![HTML5](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/html5.png) ⭐⭐⭐⭐⭐ Intermediária/Avançada  
-
-![CSS3](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/css3.png) ⭐⭐⭐⭐ Intermediária  
-
-![JavaScript](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/javascript.png) ⭐⭐⭐ Intermediária  
-
-![SQL](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/sql.png) ⭐⭐⭐ Intermediária  
-
-![Python](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/python.png) ⭐⭐⭐ Intermediária  
-
-![PHP](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/php.png) ⭐⭐⭐ Intermediária/Avançada  
-
-![Banco de Dados](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/database.png) ⭐⭐⭐ Intermediária  
-
-![C++](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/cpp.png) ⭐ Básico  
-
-![Dart](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/dart.png) ⭐ Básico  
-
+- <i class="devicon-html5-plain colored" style="font-size:24px"></i> ⭐⭐⭐⭐⭐ Intermediária/Avançada  
+- <i class="devicon-css3-plain colored" style="font-size:24px"></i> ⭐⭐⭐⭐ Intermediária  
+- <i class="devicon-javascript-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária  
+- <i class="devicon-sqlite-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária  
+- <i class="devicon-python-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária  
+- <i class="devicon-php-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária/Avançada  
+- <i class="devicon-database-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária  
+- <i class="devicon-cplusplus-plain colored" style="font-size:24px"></i> ⭐ Básico  
+- <i class="devicon-dart-plain colored" style="font-size:24px"></i> ⭐ Básico
 
 ---
 
