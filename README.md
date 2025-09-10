@@ -29,24 +29,17 @@
 | C++               | ⭐               | Básico                   |
 | Dart              | ⭐               | Básico                   |
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ⭐⭐⭐⭐⭐ Intermediária/Avançada  
-
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ⭐⭐⭐⭐ Intermediária  
-
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ⭐⭐⭐ Intermediária  
-
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) ⭐⭐⭐ Intermediária  
-
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ⭐⭐⭐ Intermediária  
-
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) ⭐⭐⭐ Intermediária/Avançada  
-
-![Banco de Dados](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg) ⭐⭐⭐ Intermediária  
-
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) ⭐ Básico  
-
-![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg) ⭐ Básico  
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
