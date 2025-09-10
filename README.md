@@ -29,6 +29,25 @@
 | C++               | ⭐               | Básico                   |
 | Dart              | ⭐               | Básico                   |
 
+![HTML5](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/html5.png) ⭐⭐⭐⭐⭐ Intermediária/Avançada  
+
+![CSS3](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/css3.png) ⭐⭐⭐⭐ Intermediária  
+
+![JavaScript](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/javascript.png) ⭐⭐⭐ Intermediária  
+
+![SQL](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/sql.png) ⭐⭐⭐ Intermediária  
+
+![Python](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/python.png) ⭐⭐⭐ Intermediária  
+
+![PHP](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/php.png) ⭐⭐⭐ Intermediária/Avançada  
+
+![Banco de Dados](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/database.png) ⭐⭐⭐ Intermediária  
+
+![C++](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/cpp.png) ⭐ Básico  
+
+![Dart](https://raw.githubusercontent.com/usuario/repositorio/main/pasta/dart.png) ⭐ Básico  
+
+
 ---
 
 ## 📊 GitHub Stats
