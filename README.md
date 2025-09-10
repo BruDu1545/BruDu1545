@@ -1,7 +1,6 @@
 # 🟩 Bruno Carletto Adamczyk 🟩
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 📍 Resido em **Marechal Cândido Rondon**, Paraná.  
 
@@ -30,15 +29,24 @@
 | C++               | ⭐               | Básico                   |
 | Dart              | ⭐               | Básico                   |
 
-- <i class="devicon-html5-plain colored" style="font-size:24px"></i> ⭐⭐⭐⭐⭐ Intermediária/Avançada  
-- <i class="devicon-css3-plain colored" style="font-size:24px"></i> ⭐⭐⭐⭐ Intermediária  
-- <i class="devicon-javascript-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária  
-- <i class="devicon-sqlite-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária  
-- <i class="devicon-python-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária  
-- <i class="devicon-php-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária/Avançada  
-- <i class="devicon-database-plain colored" style="font-size:24px"></i> ⭐⭐⭐ Intermediária  
-- <i class="devicon-cplusplus-plain colored" style="font-size:24px"></i> ⭐ Básico  
-- <i class="devicon-dart-plain colored" style="font-size:24px"></i> ⭐ Básico
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ⭐⭐⭐⭐⭐ Intermediária/Avançada  
+
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ⭐⭐⭐⭐ Intermediária  
+
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ⭐⭐⭐ Intermediária  
+
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) ⭐⭐⭐ Intermediária  
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ⭐⭐⭐ Intermediária  
+
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) ⭐⭐⭐ Intermediária/Avançada  
+
+![Banco de Dados](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg) ⭐⭐⭐ Intermediária  
+
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) ⭐ Básico  
+
+![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg) ⭐ Básico  
+
 
 ---
 
