@@ -50,10 +50,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="width: 50%; height: 200px; object-fit: contain;" />
 </div>
 
-## 🌐 Conecte-se comigo
-
-- 🐙 [GitHub](https://github.com/BruDu1545)
-
----
 
 > _"Transformando ideias em realidade através da programação."_ 🚀
