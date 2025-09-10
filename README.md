@@ -1,6 +1,7 @@
 # 🟩 Bruno Carletto Adamczyk 🟩
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 📍 Resido em **Marechal Cândido Rondon**, Paraná.  
 
