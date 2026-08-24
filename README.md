@@ -41,14 +41,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
-
+<p align="left">
+<img src="https://cdn.simpleicons.org/zabbix" width="40" height="40" alt="Zabbix"/> <img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana"/> <img src="https://cdn.simpleicons.org/proxmox" width="40" height="40" alt="Proxmox"/> <img src="https://cdn.simpleicons.org/pi-hole" width="40" height="40" alt="Pi-hole"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/> <img src="https://cdn.simpleicons.org/googleadmin" width="40" height="40" alt="Google Admin"/> <img src="https://cdn.simpleicons.org/ubiquiti" width="40" height="40" alt="UniFi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> <img src="https://cdn.simpleicons.org/portainer" width="40" height="40" alt="Portainer"/> <img src="https://cdn.simpleicons.org/antigravity" width="40" height="40" alt="Antigravity"/> <img src="https://cdn.simpleicons.org/hermes" width="40" height="40" alt="Hermes"/> <img src="https://cdn.simpleicons.org/openclaw" width="40" height="40" alt="OpenClaw"/> <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude"/> <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="Codex"/> </p>
 ---
 
 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BruDu1545&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruDu1545&theme=github_dark" width="90%" alt="GitHub profile details"/>
 
 <br/>
 <br/>
@@ -60,7 +61,14 @@ GitHub Overview
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruDu1545&theme=github_dark" width="90%" alt="GitHub profile details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BruDu1545&theme=github_dark" height="190" alt="Repositories by language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BruDu1545&theme=github_dark&utcOffset=-3" height="190" alt="Productive time"/>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BruDu1545&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -76,6 +84,8 @@ GitHub Overview
 
 <br/>
 <br/>
+
+Turning complex problems into practical, reliable solutions through technology.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%" alt="Footer"/>
 
