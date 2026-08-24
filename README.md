@@ -44,10 +44,50 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruDu1545&layout=compact&langs_count=8&theme=dracula" style="width: 45%; height: 200px; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BruDu1545&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="width: 50%; height: 200px; object-fit: contain;" />
+GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weissheimerfelipe&theme=github_dark" width="90%" alt="GitHub profile details"/>
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weissheimerfelipe&theme=github_dark" height="190" alt="GitHub statistics"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weissheimerfelipe&theme=github_dark" height="190" alt="Most used languages by commit"/>
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weissheimerfelipe&theme=github_dark" height="190" alt="Repositories by language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weissheimerfelipe&theme=github_dark&utcOffset=-3" height="190" alt="Productive time"/>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=weissheimerfelipe&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=weissheimerfelipe&style=flat-square&color=4f8ef7&label=PROFILE+VIEWS" alt="Profile views"/>
+&nbsp;
+<a href="https://github.com/weissheimerfelipe?tab=followers">
+  <img src="https://img.shields.io/github/followers/weissheimerfelipe?style=flat-square&color=4f8ef7&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
+
+<br/>
+<br/>
+
+Turning complex problems into practical, reliable solutions through technology.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%" alt="Footer"/>
+
 </div>
 
 
