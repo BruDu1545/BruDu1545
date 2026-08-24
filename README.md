@@ -42,10 +42,10 @@ Meu objetivo é utilizar a tecnologia para **resolver problemas reais, otimizar 
 | 🌐 Desenvolvimento Web | ⭐⭐⭐⭐⭐ | Avançada |
 | ⚙️ Desenvolvimento Back-end | ⭐⭐⭐⭐ | Intermediária / Avançada |
 | 🗄️ Banco de Dados | ⭐⭐⭐ | Intermediária |
-| 📱 Desenvolvimento Mobile | ⭐⭐ | Básica |
-| 🖥️ Infraestrutura / Servidores | ⭐⭐⭐⭐ | Intermediária / Avançada |
 | 🤖 Inteligência Artificial | ⭐⭐⭐⭐ | Intermediária / Avançada |
-| 👥 Gestão de TI | ⭐⭐⭐⭐ | Intermediária / Avançada |
+| 👥 Gestão de TI | ⭐⭐⭐⭐ | Intermediária |
+| 📱 Desenvolvimento Mobile | ⭐⭐ | Básica |
+| 🖥️ Infraestrutura / Servidores | ⭐⭐⭐⭐ | Básica |
 
 ---
 
