@@ -99,7 +99,7 @@ Meu objetivo é utilizar a tecnologia para **resolver problemas reais, otimizar 
   <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="40" height="40" alt="OpenAI"/>
 </p>
 
-Também venho explorando ferramentas e agentes de IA para **desenvolvimento, automação, produtividade e resolução de problemas**.
+Também venho explorando ferramentas e agentes de IA para **desenvolvimento, automação, produtividade monitoriamento e resolução de problemas**.
 
 **Hermes Agent • Antigravity • OpenClaw • Claude • Codex**
 
@@ -108,12 +108,7 @@ Também venho explorando ferramentas e agentes de IA para **desenvolvimento, aut
 ## 📊 GitHub Overview
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruDu1545&theme=github_dark" width="90%" alt="GitHub profile details"/>
-
-<br/>
-<br/>
-
+  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BruDu1545&theme=github_dark" height="190" alt="GitHub statistics"/>
 
 &nbsp;
@@ -129,10 +124,12 @@ Também venho explorando ferramentas e agentes de IA para **desenvolvimento, aut
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BruDu1545&theme=github_dark&utcOffset=-3" height="190" alt="Productive time"/>
 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BruDu1545&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
+
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BruDu1545&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruDu1545&theme=github_dark" width="90%" alt="GitHub profile details"/>
 
 </div>
 
