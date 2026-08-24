@@ -124,23 +124,6 @@ Também venho explorando ferramentas e agentes de IA para **desenvolvimento, aut
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruDu1545&theme=github_dark" width="90%" alt="GitHub profile details"/>
 
 </div>
-
----
-
-## 📈 Perfil
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=BruDu1545&style=flat-square&color=00FF00&label=PROFILE+VIEWS" alt="Profile views"/>
-
-&nbsp;
-
-<a href="https://github.com/BruDu1545?tab=followers">
-  <img src="https://img.shields.io/github/followers/BruDu1545?style=flat-square&color=00FF00&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
-
-</div>
-
 ---
 
 ## 🚀 O que estou buscando
@@ -156,6 +139,11 @@ Quero continuar evoluindo como profissional, criando soluções eficientes e uti
 <div align="center">
 
 ### 💚 "Transformando ideias em realidade através da tecnologia."
+<img src="https://komarev.com/ghpvc/?username=BruDu1545&style=flat-square&color=00FF00&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<a href="https://github.com/BruDu1545?tab=followers">
+  <img src="https://img.shields.io/github/followers/BruDu1545?style=flat-square&color=00FF00&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
 
 <br/>
 
