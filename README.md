@@ -48,6 +48,11 @@ GitHub Overview
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BruDu1545&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
+
+<br/>
+<br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruDu1545&theme=github_dark" width="90%" alt="GitHub profile details"/>
 
 <br/>
@@ -64,11 +69,6 @@ GitHub Overview
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BruDu1545&theme=github_dark&utcOffset=-3" height="190" alt="Productive time"/>
 
-<br/>
-<br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BruDu1545&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
-
 </div>
 
 <br/>
@@ -83,8 +83,6 @@ GitHub Overview
 
 <br/>
 <br/>
-
-Turning complex problems into practical, reliable solutions through technology.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%" alt="Footer"/>
 
