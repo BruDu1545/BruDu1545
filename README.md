@@ -60,13 +60,6 @@ GitHub Overview
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BruDu1545&theme=github_dark" height="190" alt="Repositories by language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BruDu1545&theme=github_dark&utcOffset=-3" height="190" alt="Productive time"/>
-
-<br/>
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruDu1545&theme=github_dark" width="90%" alt="GitHub profile details"/>
 
 </div>
