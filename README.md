@@ -41,7 +41,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
-<img src="https://cdn.simpleicons.org/zabbix/CC0000" width="40" height="40" alt="Zabbix"/> <img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana"/> <img src="https://cdn.simpleicons.org/proxmox/E57000" width="40" height="40" alt="Proxmox"/> <img src="https://raw.githubusercontent.com/pi-hole/graphics/master/Vortex/Logos/pihole-logo.png" width="40" height="40" alt="Pi-hole"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/> <img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" alt="Google Admin"/> <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" width="40" height="40" alt="UniFi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> <img src="https://cdn.simpleicons.org/portainer/13BEF9" width="40" height="40" alt="Portainer"/> <!-- IA / Agents --> <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.svg" width="40" height="40" alt="Hermes Agent"/> <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo.svg" width="40" height="40" alt="OpenClaw"/> <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude"/> <img src="https://cdn.simpleicons.org/openai/000000" width="40" height="40" alt="Codex"/> <img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" alt="Antigravity"/> </p>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/zabbix/CC0000" width="40" height="40" alt="Zabbix"/> 
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana"/> 
+  <img src="https://cdn.simpleicons.org/proxmox/E57000" width="40" height="40" alt="Proxmox"/> 
+  <img src="https://raw.githubusercontent.com/pi-hole/graphics/master/Vortex/Logos/pihole-logo.png" width="40" height="40" alt="Pi-hole"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/> 
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" alt="Google Admin"/> 
+  <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" width="40" height="40" alt="UniFi"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> 
+  <img src="https://cdn.simpleicons.org/portainer/13BEF9" width="40" height="40" alt="Portainer"/>
+  <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.svg" width="40" height="40" alt="Hermes Agent"/> 
+  <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo.svg" width="40" height="40" alt="OpenClaw"/> 
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude"/> 
+  <img src="https://cdn.simpleicons.org/openai/000000" width="40" height="40" alt="Codex"/> 
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" alt="Antigravity"/> 
+</p>
 
 GitHub Overview
 
