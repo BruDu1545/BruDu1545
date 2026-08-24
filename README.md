@@ -42,8 +42,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 <p align="left">
-<img src="https://cdn.simpleicons.org/zabbix" width="40" height="40" alt="Zabbix"/> <img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana"/> <img src="https://cdn.simpleicons.org/proxmox" width="40" height="40" alt="Proxmox"/> <img src="https://cdn.simpleicons.org/pi-hole" width="40" height="40" alt="Pi-hole"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/> <img src="https://cdn.simpleicons.org/googleadmin" width="40" height="40" alt="Google Admin"/> <img src="https://cdn.simpleicons.org/ubiquiti" width="40" height="40" alt="UniFi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> <img src="https://cdn.simpleicons.org/portainer" width="40" height="40" alt="Portainer"/> <img src="https://cdn.simpleicons.org/antigravity" width="40" height="40" alt="Antigravity"/> <img src="https://cdn.simpleicons.org/hermes" width="40" height="40" alt="Hermes"/> <img src="https://cdn.simpleicons.org/openclaw" width="40" height="40" alt="OpenClaw"/> <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude"/> <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="Codex"/> </p>
----
+  <img src="https://cdn.simpleicons.org/zabbix" width="40" height="40" alt="Zabbix"/>
+  <img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana"/>
+  <img src="https://cdn.simpleicons.org/proxmox" width="40" height="40" alt="Proxmox"/>
+  <img src="https://cdn.simpleicons.org/pi-hole" width="40" height="40" alt="Pi-hole"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
+  <img src="https://cdn.simpleicons.org/googleadmin" width="40" height="40" alt="Google Admin"/>
+  <img src="https://cdn.simpleicons.org/ubiquiti" width="40" height="40" alt="UniFi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.simpleicons.org/portainer" width="40" height="40" alt="Portainer"/>
+  <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude"/>
+</p>
+
 
 GitHub Overview
 
