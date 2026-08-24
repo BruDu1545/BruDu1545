@@ -111,18 +111,12 @@ Também venho explorando ferramentas e agentes de IA para **desenvolvimento, aut
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BruDu1545&theme=github_dark" height="190" alt="GitHub statistics"/>
 
-&nbsp;
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BruDu1545&theme=github_dark" height="190" alt="Most used languages by commit"/>
 
-<br/>
-<br/>
+</br>
+</br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BruDu1545&theme=github_dark" height="190" alt="Repositories by language"/>
-
-&nbsp;
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BruDu1545&theme=github_dark&utcOffset=-3" height="190" alt="Productive time"/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BruDu1545&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
 
