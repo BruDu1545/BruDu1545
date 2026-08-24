@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo.svg" width="40" height="40" alt="OpenClaw"/> 
   <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude"/> 
   <img src="https://cdn.simpleicons.org/openai/000000" width="40" height="40" alt="Codex"/> 
-  <img src="[https://cdn.simpleicons.org/google/4285F4](https://play-lh.googleusercontent.com/qyxUrLS-ly71Aay8GU4rX8b6osriN0AVtvBefmzHvsBQOvncHYGuQxXM--VRPONLh8yjAHW9spOyjYajtdT_)" width="40" height="40" alt="Antigravity"/> 
+  <img src="https://cdn.simpleicons.org/google/4285F4](https://play-lh.googleusercontent.com/qyxUrLS-ly71Aay8GU4rX8b6osriN0AVtvBefmzHvsBQOvncHYGuQxXM--VRPONLh8yjAHW9spOyjYajtdT_)](https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/antigravity-color.png)" width="40" height="40" alt="Antigravity"/> 
 </p>
 
 GitHub Overview
