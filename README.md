@@ -48,26 +48,26 @@ GitHub Overview
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weissheimerfelipe&theme=github_dark" width="90%" alt="GitHub profile details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruDu1545&theme=github_dark" width="90%" alt="GitHub profile details"/>
 
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weissheimerfelipe&theme=github_dark" height="190" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BruDu1545&theme=github_dark" height="190" alt="GitHub statistics"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weissheimerfelipe&theme=github_dark" height="190" alt="Most used languages by commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BruDu1545&theme=github_dark" height="190" alt="Most used languages by commit"/>
 
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weissheimerfelipe&theme=github_dark" height="190" alt="Repositories by language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BruDu1545&theme=github_dark" height="190" alt="Repositories by language"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weissheimerfelipe&theme=github_dark&utcOffset=-3" height="190" alt="Productive time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BruDu1545&theme=github_dark&utcOffset=-3" height="190" alt="Productive time"/>
 
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=weissheimerfelipe&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BruDu1545&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&dates=4a4f5c" width="58%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -75,10 +75,10 @@ GitHub Overview
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=weissheimerfelipe&style=flat-square&color=4f8ef7&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=BruDu1545&style=flat-square&color=4f8ef7&label=PROFILE+VIEWS" alt="Profile views"/>
 &nbsp;
-<a href="https://github.com/weissheimerfelipe?tab=followers">
-  <img src="https://img.shields.io/github/followers/weissheimerfelipe?style=flat-square&color=4f8ef7&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers"/>
+<a href="https://github.com/BruDu1545?tab=followers">
+  <img src="https://img.shields.io/github/followers/BruDu1545?style=flat-square&color=4f8ef7&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
 
 <br/>
