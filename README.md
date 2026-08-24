@@ -124,7 +124,6 @@ Também venho explorando ferramentas e agentes de IA para **desenvolvimento, aut
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruDu1545&theme=github_dark" width="90%" alt="GitHub profile details"/>
 
 </div>
----
 
 ## 🚀 O que estou buscando
 
