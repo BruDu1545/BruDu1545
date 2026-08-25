@@ -96,7 +96,8 @@ Meu objetivo é utilizar a tecnologia para **resolver problemas reais, otimizar 
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="40" height="40" alt="OpenAI"/>
+  <img src="https://raw.githubusercontent.com/openai/openai-agents-python/main/docs/assets/logo.svg" width="40" height="40" alt="OpenAI"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/default.svg" width="40" height="40" alt="Google Antigravity"/>
 </p>
 
 Também venho explorando ferramentas e agentes de IA para **desenvolvimento, automação, produtividade monitoriamento e resolução de problemas**.
