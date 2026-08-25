@@ -70,7 +70,7 @@ Meu objetivo é utilizar a tecnologia para **resolver problemas reais, otimizar 
 ## 🖥️ Infraestrutura & DevOps
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/zabbix/CC0000" width="40" height="40" alt="Zabbix"/>
+<img src="https://git.zabbix.com/projects/ZBX/repos/zabbix/raw/sass/img/zabbix-logo-compact.svg?at=master" width="40" height="40" alt="Zabbix"/>
   <img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana"/>
   <img src="https://cdn.simpleicons.org/proxmox/E57000" width="40" height="40" alt="Proxmox"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
