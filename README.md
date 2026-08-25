@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=008f69&center=true&vCenter=true&width=620&lines=IT+Infrastructure+Analyst;Virtualization+%7C+Automation+%7C+Development;Turning+complex+operations+into+reliable+systems" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=16c60c&center=true&vCenter=true&width=620&lines=IT+Infrastructure+Analyst;Virtualization+%7C+Automation+%7C+Development;Turning+complex+operations+into+reliable+systems" alt="Typing introduction"/>
 
 </div>
 
