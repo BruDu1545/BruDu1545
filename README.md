@@ -3,8 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header)
 
 <div align="center">
-
-### 👨‍💻 Tecnologia • Infraestrutura • Desenvolvimento • IA
+<img src="https://readme-typing-svg.demolab.com font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=620&lines=👨‍💻 Tecnologia;Infraestrutura+%7C+Desenvolvimento+%7C+IA" alt="Typing introduction"/>
 
 </div>
 
